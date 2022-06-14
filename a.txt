@@ -1,1 +1,1 @@
-this is a.txt and version 1 of master
+this is a.txt and version 2 of master
